@@ -1,3 +1,4 @@
+
 # Cost Structure and Channel-Wise Profitability Analysis for Multi-Channel Restaurants
 
 ## Project Overview
@@ -16,6 +17,11 @@ The project evaluates revenue, operating costs, platform commissions, delivery l
 An interactive Streamlit dashboard was developed to allow users to explore profitability by cuisine type, business segment, and channel.
 
 ---
+## 🚀 Live Demo
+
+🔗 **[View Live Streamlit Dashboard](https://restaurantprofitabilityanalysis-kvzscs2ydjw6rnuxebu7k6.streamlit.app/)**
+
+Explore the interactive dashboard for channel profitability, cost breakdowns, commission sensitivity, self-delivery analysis, cuisine/segment comparisons, and profitability risk.
 
 ## Business Problem
 
